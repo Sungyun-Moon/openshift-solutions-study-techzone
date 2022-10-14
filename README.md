@@ -1,2 +1,2 @@
-# openshift-solutions-study-techzone
+# OpenShiftでSampleリソースをデプロイする流れ
 Openshift操作の流れ
