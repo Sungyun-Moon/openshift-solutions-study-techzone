@@ -28,7 +28,7 @@ Gitのリソースが利用可能かどうかをOpenShift側で自動に検証�
 <img width="849" alt="スクリーンショット 2022-10-14 16 18 27" src="https://user-images.githubusercontent.com/108312056/195798612-f5fc17c8-96e0-4481-9e44-0d5b73ca18d8.png">
 <img width="836" alt="スクリーンショット 2022-10-14 17 21 50" src="https://user-images.githubusercontent.com/108312056/195798928-c2f0f8aa-7b98-436f-afa2-3f3ea59d0b4b.png">
 
-次にはビルドイメージを選択しましょう。Sampleリソースであるため、自動にNode.jsに選択されていると思いますが、万が一選択されていない、あるいは他のビルドイメージが自動選択されている場合には`インポートストラテジーを編集`をクリックし、Node.jsを選択してください。
+次にはビルドイメージを選択しましょう。Sampleリソースであるため、自動にNode.jsに選択されていると思いますが、万が一選択されていない、あるいは他のビルドイメージが自動選択されている場合には`インポートストラテジーを編集`をクリックし、`Node.js`を選択してください。
 
 <img width="1621" alt="スクリーンショット 2022-10-14 16 18 55" src="https://user-images.githubusercontent.com/108312056/195799005-3e26d1d0-885b-4416-a195-5e1a6d397cd1.png">
 
