@@ -1,5 +1,7 @@
 # OpenShiftでSampleリソースを使ってデプロイする流れ（Githubリポジトリー）
+
 ## OpenShiftコンソール画面
+
 OpenShiftには運用画面（`Administrator`）と開発画面(`Developer`)に分かれています。今回は`Developer`画面で操作をします。
 
 <img width="1920" alt="スクリーンショット 2022-10-14 16 09 02" src="https://user-images.githubusercontent.com/108312056/195797790-cffa5aa5-5ae1-432f-933e-16669c2d4d8f.png">
@@ -12,8 +14,10 @@ Gitからインポートをクッリクします。
 <img width="1920" alt="スクリーンショット 2022-10-14 16 09 31" src="https://user-images.githubusercontent.com/108312056/195797918-9f606716-5f47-428a-a919-16624320a7dd.png">
 
 ## Gitリポジトリー入力
+
 Gitリポジトリーを引っ張ってくるためのURL入力欄がありますね。今回使ったSample URLは ***https://github.com/IBM/ibm-dte-openlab-samples*** を使っていますので、こちらをCopy・入力ください。
-Gitのリソースが利用可能かどうかをOpenShift側で自動に検証してくれます。`Builder Image 件、検出されました。ビルダーイメージが推奨されます。`と表示されることがわかります。
+Gitのリソースが利用可能かどうかをOpenShift側で自動に検証してくれます。’Builder Image 件、検出されました。ビルダーイメージが推奨されます。’と表示されることがわかります。
+>Builder Image 件、検出されました。ビルダーイメージが推奨されます。
 
 <img width="1920" alt="スクリーンショット 2022-10-14 16 18 09" src="https://user-images.githubusercontent.com/108312056/195798037-3dca0ad1-c976-420d-b828-f757936d7839.png">
 
