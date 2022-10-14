@@ -39,3 +39,34 @@ Gitのリソースが利用可能かどうかをOpenShift側で自動に検証�
 
 <img width="845" alt="スクリーンショット 2022-10-14 17 11 00" src="https://user-images.githubusercontent.com/108312056/195799565-40dce18d-7589-46f9-843d-78d4e1a0a755.png">
 
+作成をクリックすると、空白であったトポロジー空間にアプリケーションがデプロイ中であることがわかります。細かいですが、アプリケーションの右下に矢印が回っているような表示がありますが、これは’デプロイ中’との意味となります。アプリケーションをクリックすると、詳細を確認することもできます。
+
+<img width="1920" alt="スクリーンショット 2022-10-14 17 11 18" src="https://user-images.githubusercontent.com/108312056/195801661-195dad03-40d9-44a2-a618-9fcfec52463d.png">
+<img width="863" alt="スクリーンショット 2022-10-14 17 11 32" src="https://user-images.githubusercontent.com/108312056/195801760-20e95948-e72f-472b-b51d-b069c5001405.png">
+
+少し時間が経つと右下の矢印が緑のチェックマークに変わるデプロイ完了できたとの表示となります。
+
+<img width="332" alt="スクリーンショット 2022-10-14 17 36 05" src="https://user-images.githubusercontent.com/108312056/195802647-9ce57d5d-42d9-4c87-9958-3c59f00a5718.png">
+
+アプリケーションをクリックしリソース欄を確認すると`Running`表示されています。デプロイが確実にされたことがわかります。
+
+<img width="482" alt="スクリーンショット 2022-10-14 17 36 31" src="https://user-images.githubusercontent.com/108312056/195802743-11f40f4d-3365-492f-93e1-3685de3e654b.png">
+
+アプリケーションに戻って`右上のURLを開く`をクリックして実際デプロイされたアプリケーションを確認しましょう。
+
+<img width="415" alt="スクリーンショット 2022-10-14 17 37 02" src="https://user-images.githubusercontent.com/108312056/195803146-62d8d151-a95c-4543-8ee9-507eca0f19d0.png">
+
+デプロイされたサイトが表示されます。IDとPasswordを入力する欄が出ますが、ここは任意の文字あるいは数字を入力してください。
+（* Chromeなど使っている場合は、Passwordが簡単すぎるとセキュリティー警告が出る場合があります。）
+
+<img width="1920" alt="スクリーンショット 2022-10-14 17 37 52" src="https://user-images.githubusercontent.com/108312056/195803214-e7dd0238-4bcc-408e-a8ef-2dcabd44e927.png">
+
+ログインすると以下の画面が表示されます。病院のカルテのようなアプリケーションですね。
+Sampleリソースなのでそこまでの機能はついていないですが、地図を動かすぐらいは可能になっています。
+
+<img width="1920" alt="スクリーンショット 2022-10-14 17 38 07" src="https://user-images.githubusercontent.com/108312056/195803920-e9bb65ef-c3ef-4291-b225-f08c7e36629a.png">
+<img width="1920" alt="スクリーンショット 2022-10-14 17 38 16" src="https://user-images.githubusercontent.com/108312056/195803939-1dcaee6d-8ab0-4823-9265-81ed1b3e2a13.png">
+
+OpenShift上でGitリソースを使って簡単にデプロイする流れは以上となります。
+
+
