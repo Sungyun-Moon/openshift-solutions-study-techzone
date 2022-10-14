@@ -21,7 +21,7 @@ Gitのリソースが利用可能かどうかをOpenShift側で自動に検証�
 
 <img width="1920" alt="スクリーンショット 2022-10-14 16 18 09" src="https://user-images.githubusercontent.com/108312056/195798037-3dca0ad1-c976-420d-b828-f757936d7839.png">
 
-その次に'詳細の Git オプションの非表示'をクリックし、詳細を設定していきます。コンテキストディレクトリーに__Red Hat OpenShift on IBM Cloud/node-s2i-openshift-master/__を入力ください。注意点として前方に予め記載されているスラッシュ（/）を消さないようにしてください。コンテキストディレクトリーはスラッシュ（/）から始まるように構成されています。
+その次に'詳細の Git オプションの非表示'をクリックし、詳細を設定していきます。コンテキストディレクトリーに***Red Hat OpenShift on IBM Cloud/node-s2i-openshift-master/***を入力ください。注意点として前方に予め記載されているスラッシュ（/）を消さないようにしてください。コンテキストディレクトリーはスラッシュ（/）から始まるように構成されています。
 
 <img width="849" alt="スクリーンショット 2022-10-14 16 18 27" src="https://user-images.githubusercontent.com/108312056/195798612-f5fc17c8-96e0-4481-9e44-0d5b73ca18d8.png">
 <img width="836" alt="スクリーンショット 2022-10-14 17 21 50" src="https://user-images.githubusercontent.com/108312056/195798928-c2f0f8aa-7b98-436f-afa2-3f3ea59d0b4b.png">
