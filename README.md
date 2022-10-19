@@ -1,3 +1,54 @@
+# TechzoneでTest環境を設定する流れ
+
+## Techzoneでの環境の予約
+
+[IBM Technology Zone](https://techzone.ibm.com/decisionpoints)にアクセスします。
+
+<img width="1920" alt="スクリーンショット 2022-10-19 20 08 43" src="https://user-images.githubusercontent.com/108312056/196681159-b95f1d1f-b3c3-4abe-8526-591069f487fa.png">
+
+検索バーに`Red Hat OpenShift on IBM Cloud basics lab`を入力します。
+
+<img width="1920" alt="スクリーンショット 2022-10-19 20 08 54" src="https://user-images.githubusercontent.com/108312056/196681184-538db214-a622-4f89-b7c4-d9e50c52eebc.png">
+
+Red Hat OpenShift on IBM Cloud basics labをクリックします。
+
+<img width="1920" alt="スクリーンショット 2022-10-19 20 09 35" src="https://user-images.githubusercontent.com/108312056/196681212-35c3166d-b560-4d07-bf1a-761ecdd0a148.png">
+
+`Basic Lab`タブをクリックし、`Red Hat OpenShift on IBM Cloud basics lab - Environmonet`の予約を行います。
+
+<img width="1920" alt="スクリーンショット 2022-10-19 20 09 48" src="https://user-images.githubusercontent.com/108312056/196681265-cf976c24-d946-4183-b0cc-540969da7e28.png">
+
+予約画面で `Reserve now`　をクリックします。
+
+<img width="1920" alt="スクリーンショット 2022-10-19 20 10 27" src="https://user-images.githubusercontent.com/108312056/196681298-c58264fb-9207-4ae7-b131-ccdf3522a090.png">
+
+画面が切り替わり環境情報を入力する画面が出たら、環境情報に関するフィールドに以下の情報を入力します。
+> Name:`Red Hat OpenShift on IBM Cloud basics lab - Environment` 
+> Purpose : `Practice - Self Education`
+> Purpose description : New hire training 
+> Preferred Geography (required) :ワシントンDC 04
+> 終了日と終了時刻を指定します。　　（このラボの所要時間は約90分ですが、それより長い時間予約することをお勧めします。）
+
+項目を全て入力したら、下の`Submit`をクリックします。
+
+<img width="1920" alt="スクリーンショット 2022-10-19 20 32 43" src="https://user-images.githubusercontent.com/108312056/196681344-bbef845d-d193-4eca-946e-a6e23b7ee147.png">
+
+これで予約の準備が終わります。
+
+
+## Openshift環境にアクセス
+予約してからまもなく予約した環境のデプロイ完了メールが届きます。
+***IBM Cloud <no-reply@cloud.ibm.com>*** から　***Account: You are invited to join an account in IBM Cloud*** のタイトルで届いたメールを開き、`Join now`　をクリックします。
+
+
+
+
+
+
+
+
+
+
 # OpenShiftでSampleリソースを使ってデプロイする流れ（Githubリポジトリー）
 
 ## OpenShiftコンソール画面
