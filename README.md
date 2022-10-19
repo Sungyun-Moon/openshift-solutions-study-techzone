@@ -25,9 +25,9 @@
 画面が切り替わり環境情報を入力する画面が出たら、環境情報に関するフィールドに以下の情報を入力します。
 - Name:`Red Hat OpenShift on IBM Cloud basics lab - Environment` 
 - Purpose : `Practice - Self Education`
-- Purpose description : New hire training 
-- Preferred Geography (required) :ワシントンDC 04
-- 終了日と終了時刻を指定します。　　（このラボの所要時間は約90分ですが、それより長い時間予約することをお勧めします。）
+- Purpose description : `New hire training`
+- Preferred Geography (required) : `ワシントンDC 04`
+- 「終了日」　と　「終了時刻」　を指定します。　　（このラボの所要時間は約90分ですが、それより長い時間予約することをお勧めします。）
 
 項目を全て入力したら、下の`Submit`をクリックします。
 
