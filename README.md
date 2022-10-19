@@ -6,11 +6,11 @@
 
 <img width="1920" alt="スクリーンショット 2022-10-19 20 08 43" src="https://user-images.githubusercontent.com/108312056/196681159-b95f1d1f-b3c3-4abe-8526-591069f487fa.png">
 
-検索バーに`Red Hat OpenShift on IBM Cloud basics lab`を入力します。
+検索バーに　「Red Hat OpenShift on IBM Cloud basics lab」　を入力します。
 
 <img width="1920" alt="スクリーンショット 2022-10-19 20 08 54" src="https://user-images.githubusercontent.com/108312056/196681184-538db214-a622-4f89-b7c4-d9e50c52eebc.png">
 
-Red Hat OpenShift on IBM Cloud basics labをクリックします。
+`Red Hat OpenShift on IBM Cloud basics lab`をクリックします。
 
 <img width="1920" alt="スクリーンショット 2022-10-19 20 09 35" src="https://user-images.githubusercontent.com/108312056/196681212-35c3166d-b560-4d07-bf1a-761ecdd0a148.png">
 
