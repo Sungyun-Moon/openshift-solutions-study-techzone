@@ -6,7 +6,7 @@
 
 <img width="1920" alt="スクリーンショット 2022-10-19 20 08 43" src="https://user-images.githubusercontent.com/108312056/196681159-b95f1d1f-b3c3-4abe-8526-591069f487fa.png">
 
-検索バーに　「Red Hat OpenShift on IBM Cloud basics lab」　を入力します。
+検索バーに　***Red Hat OpenShift on IBM Cloud basics lab」　を入力します。
 
 <img width="1920" alt="スクリーンショット 2022-10-19 20 08 54" src="https://user-images.githubusercontent.com/108312056/196681184-538db214-a622-4f89-b7c4-d9e50c52eebc.png">
 
@@ -27,7 +27,7 @@
 - Purpose : `Practice - Self Education`
 - Purpose description : `New hire training`
 - Preferred Geography (required) : `ワシントンDC 04`
-- 「終了日」　と　「終了時刻」　を指定します。　　（このラボの所要時間は約90分ですが、それより長い時間予約することをお勧めします。）
+- ***終了日***　と　***終了時刻***　を指定します。　　（このラボの所要時間は約90分ですが、それより長い時間予約することをお勧めします。）
 
 項目を全て入力したら、下の`Submit`をクリックします。
 
@@ -60,7 +60,7 @@
 
 <img width="1920" alt="スクリーンショット 2022-10-19 21 04 30" src="https://user-images.githubusercontent.com/108312056/196688076-5c8a1c62-f843-4484-a064-b11622fe776b.png">
 
-「NH-Training-cluster-NA」　の環境は正常にデプロイされていることがわかります。
+***NH-Training-cluster-NA***　の環境は正常にデプロイされていることがわかります。
 （もし環境予約時間の設定などによりエラーが発生している場合があります。その場合は再度正しい時間で予約を行なってください。）
 
 <img width="1920" alt="スクリーンショット 2022-10-19 21 04 41" src="https://user-images.githubusercontent.com/108312056/196688119-c5d393da-9901-4c96-8353-d2854c6adcda.png">
