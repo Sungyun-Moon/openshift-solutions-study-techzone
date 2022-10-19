@@ -33,17 +33,39 @@ Red Hat OpenShift on IBM Cloud basics labをクリックします。
 
 <img width="1920" alt="スクリーンショット 2022-10-19 20 32 43" src="https://user-images.githubusercontent.com/108312056/196681344-bbef845d-d193-4eca-946e-a6e23b7ee147.png">
 
-これで予約の準備が終わります。
+以下の画面が表示されたら、予約の準備が終わります。
 
+<img width="1920" alt="スクリーンショット 2022-10-19 20 12 04" src="https://user-images.githubusercontent.com/108312056/196687906-925ac8ce-e375-4718-90e2-3d93671090de.png">
 
 ## Openshift環境にアクセス
+
 予約してからまもなく予約した環境のデプロイ完了メールが届きます。
 ***IBM Cloud <no-reply@cloud.ibm.com>*** から　***Account: You are invited to join an account in IBM Cloud*** のタイトルで届いたメールを開き、`Join now`　をクリックします。
 
+<img width="599" alt="スクリーンショット 2022-10-19 20 12 25" src="https://user-images.githubusercontent.com/108312056/196687012-34b1f6cf-e71d-419e-b060-ce27bcb5cbb1.png">
 
+以下のような画面が表示されますが、`ログイン`をクリックし、IBM Cloudコンソールにアクセスします。
 
+<img width="1440" alt="スクリーンショット 2022-10-19 20 49 54" src="https://user-images.githubusercontent.com/108312056/196687051-d300fbbd-446b-4468-9977-0598dc59cc54.png">
 
+コンソールのIBM Cloud アカウントから lab アカウントに変更します: `2435442 - ITZ - Satellite`
 
+<img width="1919" alt="スクリーンショット 2022-10-19 20 14 39" src="https://user-images.githubusercontent.com/108312056/196687243-e3ee2cc1-e2f9-4210-a434-fa365af592e2.png">
+
+アカウントが切り替わったら、ナビゲーション・メニューにて `OpenShift` → `クラスター` をクリックします。
+
+<img width="1920" alt="スクリーンショット 2022-10-19 20 15 08" src="https://user-images.githubusercontent.com/108312056/196687470-0c11da4e-d90d-4718-9971-bfa25f1723ad.png">
+
+クラスターの中で、`NH-Training-cluster-NA`をクリックします。
+
+<img width="1920" alt="スクリーンショット 2022-10-19 21 04 30" src="https://user-images.githubusercontent.com/108312056/196688076-5c8a1c62-f843-4484-a064-b11622fe776b.png">
+
+「NH-Training-cluster-NA」　の環境は正常にデプロイされていることがわかります。
+（もし環境予約時間の設定などによりエラーが発生している場合があります。その場合は再度正しい時間で予約を行なってください。）
+
+<img width="1920" alt="スクリーンショット 2022-10-19 21 04 41" src="https://user-images.githubusercontent.com/108312056/196688119-c5d393da-9901-4c96-8353-d2854c6adcda.png">
+
+これでIBM Cloud コンソールでの操作は終了です。
 
 
 
