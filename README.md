@@ -23,11 +23,11 @@
 <img width="1920" alt="スクリーンショット 2022-10-19 20 10 27" src="https://user-images.githubusercontent.com/108312056/196681298-c58264fb-9207-4ae7-b131-ccdf3522a090.png">
 
 画面が切り替わり環境情報を入力する画面が出たら、環境情報に関するフィールドに以下の情報を入力します。
-> Name:`Red Hat OpenShift on IBM Cloud basics lab - Environment` 
-> Purpose : `Practice - Self Education`
-> Purpose description : New hire training 
-> Preferred Geography (required) :ワシントンDC 04
-> 終了日と終了時刻を指定します。　　（このラボの所要時間は約90分ですが、それより長い時間予約することをお勧めします。）
+- Name:`Red Hat OpenShift on IBM Cloud basics lab - Environment` 
+- Purpose : `Practice - Self Education`
+- Purpose description : New hire training 
+- Preferred Geography (required) :ワシントンDC 04
+- 終了日と終了時刻を指定します。　　（このラボの所要時間は約90分ですが、それより長い時間予約することをお勧めします。）
 
 項目を全て入力したら、下の`Submit`をクリックします。
 
