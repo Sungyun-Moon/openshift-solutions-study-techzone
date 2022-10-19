@@ -27,7 +27,7 @@
 - Purpose : `Practice - Self Education`
 - Purpose description : `New hire training`
 - Preferred Geography (required) : `ワシントンDC 04`
-- ***終了日***　と　***終了時刻***　を指定します。　　（このラボの所要時間は約90分ですが、それより長い時間予約することをお勧めします。）
+- ***終了日***　と　***終了時刻***　を指定します。　　*（このラボの所要時間は約90分ですが、それより長い時間予約することをお勧めします。）*
 
 項目を全て入力したら、下の`Submit`をクリックします。
 
@@ -134,7 +134,7 @@ Gitのリソースが利用可能かどうかをOpenShift側で自動に検証�
 <img width="415" alt="スクリーンショット 2022-10-14 17 37 02" src="https://user-images.githubusercontent.com/108312056/195803146-62d8d151-a95c-4543-8ee9-507eca0f19d0.png">
 
 デプロイされたサイトが表示されます。IDとPasswordを入力する欄が出ますが、ここは任意の文字あるいは数字を入力してください。
-（* Chromeなど使っている場合は、Passwordが簡単すぎるとセキュリティー警告が出る場合があります。）
+*（Chromeなど使っている場合は、Passwordが簡単すぎるとセキュリティー警告が出る場合があります。）*
 
 <img width="1920" alt="スクリーンショット 2022-10-14 17 37 52" src="https://user-images.githubusercontent.com/108312056/195803214-e7dd0238-4bcc-408e-a8ef-2dcabd44e927.png">
 
