@@ -40,7 +40,7 @@
 ## Openshift環境にアクセス
 
 予約してからまもなく予約した環境のデプロイ完了メールが届きます。
-***IBM Cloud <no-reply@cloud.ibm.com>*** から　***Account: You are invited to join an account in IBM Cloud*** のタイトルで届いたメールを開き、`Join now`　をクリックします。
+***IBM Cloud (no-reply@cloud.ibm.com)*** から　***Account: You are invited to join an account in IBM Cloud*** のタイトルで届いたメールを開き、`Join now`　をクリックします。
 
 <img width="599" alt="スクリーンショット 2022-10-19 20 12 25" src="https://user-images.githubusercontent.com/108312056/196687012-34b1f6cf-e71d-419e-b060-ce27bcb5cbb1.png">
 
