@@ -60,7 +60,7 @@
 
 <img width="1920" alt="スクリーンショット 2022-10-19 21 04 30" src="https://user-images.githubusercontent.com/108312056/196688076-5c8a1c62-f843-4484-a064-b11622fe776b.png">
 
-***NH-Training-cluster-NA***　の環境は正常にデプロイされていることがわかります。
+***NH-Training-cluster-NA***　の環境は正常にデプロイされていることがわかります。`OpenShift Web コンソール` をクリックしてアクセスしましょう。
 （もし環境予約時間の設定などによりエラーが発生している場合があります。その場合は再度正しい時間で予約を行なってください。）
 
 <img width="1920" alt="スクリーンショット 2022-10-19 21 04 41" src="https://user-images.githubusercontent.com/108312056/196688119-c5d393da-9901-4c96-8353-d2854c6adcda.png">
