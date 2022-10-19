@@ -1,6 +1,6 @@
 # TechzoneでTest環境を設定する流れ
 
-## Techzoneでの環境の予約
+### Techzoneでの環境の予約
 
 [IBM Technology Zone](https://techzone.ibm.com/decisionpoints)にアクセスします。
 
@@ -37,7 +37,7 @@
 
 <img width="1920" alt="スクリーンショット 2022-10-19 20 12 04" src="https://user-images.githubusercontent.com/108312056/196687906-925ac8ce-e375-4718-90e2-3d93671090de.png">
 
-## Openshift環境にアクセス
+### Openshift環境にアクセス
 
 予約してからまもなく予約した環境のデプロイ完了メールが届きます。
 ***IBM Cloud (no-reply@cloud.ibm.com)*** から　***Account: You are invited to join an account in IBM Cloud*** のタイトルで届いたメールを開き、`Join now`　をクリックします。
@@ -73,7 +73,7 @@ __________
 
 # OpenShiftでSampleリソースを使ってデプロイする流れ（Githubリポジトリー）
 
-## OpenShiftコンソール画面
+### OpenShiftコンソール画面
 
 OpenShiftには運用画面（`Administrator`）と開発画面(`Developer`)に分かれています。今回は`Developer`画面で操作をします。
 
@@ -86,7 +86,7 @@ Gitからインポートをクッリクします。
 
 <img width="1920" alt="スクリーンショット 2022-10-14 16 09 31" src="https://user-images.githubusercontent.com/108312056/195797918-9f606716-5f47-428a-a919-16624320a7dd.png">
 
-## Gitリポジトリー入力
+### Gitリポジトリー入力
 
 Gitリポジトリーを引っ張ってくるためのURL入力欄がありますね。
 今回使ったSample URLは ***https://github.com/IBM/ibm-dte-openlab-samples*** を使っていますので、こちらをCopy・入力ください。
