@@ -22,8 +22,8 @@
 
 <img width="1920" alt="スクリーンショット 2022-10-19 20 10 27" src="https://user-images.githubusercontent.com/108312056/196681298-c58264fb-9207-4ae7-b131-ccdf3522a090.png">
 
-画面が切り替わり環境情報を入力する画面が表示された後、環境情報に関するフィールドに以下の情報を入力します。以下は私が入力した情報です。適宜必要な情報を読み替えて入力ください。
-今回は以下のように情報を入力しました。
+画面が切り替わり環境情報を入力する画面が表示された後、環境情報に関するフィールドに以下の情報を入力します。
+以下は私が入力した情報ですが、適宜必要な情報を読み替えて入力ください。
 - Name:`Red Hat OpenShift on IBM Cloud basics lab - Environment` 
 - Purpose : `Practice - Self Education`
 - Purpose description : `New hire training`
