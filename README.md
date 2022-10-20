@@ -1,6 +1,6 @@
-# IBM Technology Zone (TechZone) でテスト環境を設定する流れ
+# 1. IBM Technology Zone (TechZone) でテスト環境を設定する流れ
 
-## Techzoneでの環境の予約
+## 1-1. Techzoneでの環境の予約
 
 [IBM Technology Zone](https://techzone.ibm.com/decisionpoints)にアクセスします。
 
@@ -38,7 +38,7 @@
 
 <img width="1920" alt="スクリーンショット 2022-10-19 20 12 04" src="https://user-images.githubusercontent.com/108312056/196687906-925ac8ce-e375-4718-90e2-3d93671090de.png">
 
-## Openshift環境にアクセス
+## 1-2. OpenShift環境にアクセス
 
 予約してからまもなく予約した環境のデプロイ完了メールが届きます。
 ***IBM Cloud (no-reply@cloud.ibm.com)*** から　***Account: You are invited to join an account in IBM Cloud*** のタイトルで届いたメールを開き、`Join now`　をクリックします。
@@ -62,7 +62,7 @@
 
 <img width="1920" alt="スクリーンショット 2022-10-19 21 04 30" src="https://user-images.githubusercontent.com/108312056/196688076-5c8a1c62-f843-4484-a064-b11622fe776b.png">
 
-***NH-Training-cluster-NA***　の環境は正常にデプロイされていることがわかります。`OpenShift Web コンソール` をクリックしてアクセスしましょう。
+***NH-Training-cluster-NA***　の環境は正常にデプロイされていることがわかります。基本OpenShiftでのデプロイはIBM CloudではなくOpenShift内で操作するため、右上の`OpenShift Web コンソール` をクリックしてアクセスします。
 （もし環境予約時間の設定などによりエラーが発生している場合があります。その場合は再度正しい時間で予約を行なってください。）
 
 <img width="1920" alt="スクリーンショット 2022-10-19 21 04 41" src="https://user-images.githubusercontent.com/108312056/196688119-c5d393da-9901-4c96-8353-d2854c6adcda.png">
@@ -73,9 +73,9 @@
 __________
 
 
-# OpenShiftでSampleリソースを使ってデプロイする流れ（Githubリポジトリー）
+# 2. OpenShiftでSampleリソースを使ってデプロイする流れ（Githubリポジトリー）
 
-## OpenShiftコンソール画面
+## 2-1. OpenShiftコンソール画面
 
 OpenShiftのWebコンソールは運用画面（Administrator）と開発画面(Developer)に分かれています。今回は`Developer`画面で操作をします。
 
@@ -88,7 +88,7 @@ Gitからインポートをクリックします。
 
 <img width="1920" alt="スクリーンショット 2022-10-14 16 09 31" src="https://user-images.githubusercontent.com/108312056/195797918-9f606716-5f47-428a-a919-16624320a7dd.png">
 
-## Gitリポジトリー入力
+## 2-2. Gitリポジトリー入力
 
 GitHubで公開されているアプリケーションをインポートしてアプリケーションとしてデプロイしていきます。今回使ったサンプルアプリケーションはIBM OpenLabで利用されているWebアプリケーションです。
 GitHubの`https://github.com/IBM/ibm-dte-openlab-samples`で公開されています。
@@ -148,7 +148,7 @@ Sampleリソースなのでそこまでの機能はついていないですが�
 
 OpenShift上でGitリソースを使って簡単にデプロイする流れは以上となります。
 
-# 最後に
+# 3. 最後に
 今回はIBM Technology ZoneでOpenShift環境を予約し、Githubのサンプルアプリケーションをインポートし、その結果を確認する流れをまとめました。
 従来のアプリケーションのデプロイは非常に手間がかかり、デプロイ時間に関しても非常に長い時間が必要とされましたが、OpenShiftを使うことで簡単にデプロイされるのが確認できました。
 実際OpenShiftを使ってみる前まではOpenShiftのメリットや機能についてそこまで感じることができませんでしたが、実際アプリケーションをデプロイしてみることで、その速さにびっくりしたことも正直な感想です。
